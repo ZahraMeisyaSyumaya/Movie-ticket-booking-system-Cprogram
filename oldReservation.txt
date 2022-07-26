@@ -1,0 +1,8 @@
+
+		Name : zahra 
+		Mobile Number : 1917378382 
+		Movie : scarface 
+		Date : 04-25-2020 
+		Time : 19.00 
+		Number of Tickets : 60000 
+		Total Amount : IDR 12592 
