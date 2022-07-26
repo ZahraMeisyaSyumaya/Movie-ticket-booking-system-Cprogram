@@ -9,5 +9,5 @@ This is a Movie ticket booking system "Book N Go", created with C Programming la
 	--> username : kalgan
 		 password : protein12
 3. Input the specification of the movie 
-4. Verify that you're not a robot by following the next instructure
+4. Verify that you're not a robot by following the next instructure 
  
